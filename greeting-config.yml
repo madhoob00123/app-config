@@ -13,4 +13,4 @@ logging: # <----New sections below
 greeting:
   displayFortune: true
 
-quoteServiceURL: "ssss"
+quoteServiceURL: https://www.google.com
