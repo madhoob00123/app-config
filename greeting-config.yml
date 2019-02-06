@@ -13,4 +13,4 @@ logging: # <----New sections below
 greeting:
   displayFortune: true
 
-quoteServiceURL: http://localhost:8081/getQuote
+quoteServiceURL: http://localhost:8080/getQuote
