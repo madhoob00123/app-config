@@ -10,6 +10,8 @@ logging:
   level:
     io:
       pivotal: DEBUG
+    com:
+      example: DEBUG
 
 ribbon: # <---NEW SECTION
   IsSecure: false
