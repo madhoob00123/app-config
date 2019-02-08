@@ -9,6 +9,8 @@ logging: # <----New sections below
   level:
     com:
       example: DEBUG
+    io:
+      pivotal: DEBUG
 
 greeting:
   displayFortune: true
